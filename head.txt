@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Facebook login</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Facebook </h1>
+      <script src="script.js"></script>
+  </body>
+  <body>
+    <div class="cointainer">
+      <div class="leftpart">
+        <h3>
+          <pre>
+Facebook helps you 
+connect and share 
+with the people 
+in your life.
+          </pre>
+        </h3>
+      </div>
+      <div class="rightpart">
+        <div class="loginpage">
+          <form>
+            <input type="text"placeholder="email or phone number">
+            <input type="password" placeholder="password">
+            <input type="submit">
+          </form>
+          <p>Forgot Password ?</p>
+          <hr>
+          <div class="createaccount">Create a new Account
+        </div>
+      </div>
+      <span>Create a page for a well-Known person,Orchestra or buisness</span>
+    </div>
+  </body>
+</html>
